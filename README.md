@@ -2,6 +2,11 @@
 
 A modern, user-friendly mobile currency converter built with **React Native**. This app allows users to quickly convert between different currencies, view live exchange rates, and keep track of conversion history with an appealing, visually enhanced interface.
 
+## Screenshots
+
+![Currency Converter App Interface](/assets/currencyconverterapp.png)
+*Figure 1: User interface of the Currency Converter App showcasing real-time currency conversion and interactive features.*
+
 ## Features
 
 - **Real-Time Currency Conversion**:  
